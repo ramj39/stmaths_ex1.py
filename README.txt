@@ -1,0 +1,1 @@
+This app is developed as an experimental streamlit app for mathematical problems. This is basen modules like streamlit,pandas,numpy and matplotlib. This is the 1st of a series of apps in streamlit platform for maths problems.
